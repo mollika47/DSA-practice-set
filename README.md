@@ -8,6 +8,8 @@ It includes C programs that I have written while learning and practicing differe
 * Binary Search
 * Linked List
 * Sorting Algorithms
+* Array
+* Matrix Operations
 
 ## Language Used
 
